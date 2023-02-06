@@ -7,7 +7,7 @@ Overlays can be found in [phhusson's repository](https://github.com/phhusson/ven
 
 ## Using this Module
 
-1. Download the zip from the [releases tab]
+1. Download the zip file
 2. Move it to your device (through `adb push` for example)
 3. Install the module using Magisk
 
